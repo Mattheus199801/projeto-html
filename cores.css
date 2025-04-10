@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2em;
+    color: #030303;
+    background-color: #deb887;
+    text-align: center;
+    margin: 0.5em;
+    padding: 0.5em;
+
+}
+
+.hj {
+    background-color: #3f3f9c;
+    color: #7fff00;
+    border: 0.1em solid #030303;
+
+}
+
+.op {
+    background-color: #ce3737;
+    color: #00bfff;
+    border: 0.1em solid #ffff00;
+    text-align: justify;
+}
